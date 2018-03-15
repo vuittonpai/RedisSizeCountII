@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisSizeCalculator", "RedisSizeCalculator\RedisSizeCalculator.csproj", "{65672291-3D2E-41DB-A024-BACB8C283058}"
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisSizeCountII", "RedisSizeCountII\RedisSizeCountII.csproj", "{65672291-3D2E-41DB-A024-BACB8C283058}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC035450-7DBE-4B06-AADF-6ED124CB0615}
 	EndGlobalSection
 EndGlobal
